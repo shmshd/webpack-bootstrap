@@ -1,0 +1,7 @@
+@import "~bootstrap";
+
+$body-color: lighten(#000, 60%);
+
+body {
+  background: $body-color;
+}
